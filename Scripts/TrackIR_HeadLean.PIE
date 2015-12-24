@@ -1,0 +1,11 @@
+﻿if trackir.Roll >(7)
+keyboard0.a = true
+else
+keyboard0.a = false
+endif
+
+if trackir.Roll <(-7)
+keyboard0.d = true
+else
+keyboard0.d = false
+endif
