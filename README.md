@@ -5,7 +5,7 @@ The primary reason for creating this comes from a need to lean. Fairly simple in
 
 I'm not really a coder by nature but I saw a need, did a little reading and now I have a working script for TrackIR. This can now be used by any game that has a lean function. Just edit the script to use the keys you would like and then bind it in game.
 
-The TrackIR script includes a numerical value that corrisponds to the TrackIR's ingame axis value.
+The TrackIR script includes a numerical value that corresponds to the TrackIR's in-game axis value.
 
 TrackIR's curves are measured in:
 THA (True Head Angle in Degrees)
@@ -14,7 +14,7 @@ RS  (Rotation Speed)
 
 This is basically where things get tricky and is why I am putting this script on github. I have played around with a custom profile in TrackIR's profiler to have no input on the X, Y, Z, pitch and yaw axis.
 
-TrackIR has an 11 point adjustable curve for each axis. By default this curve is set to mirror center which will give you the same input curve opossite of each other.
+TrackIR has an 11 point adjustable curve for each axis. By default this curve is set to mirror center which will give you the same input curve opposite of each other.
 
 Testing has been done with the following curve on the Roll axis:
 Point 1 (Center) X=0 Y=0
