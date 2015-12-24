@@ -36,6 +36,9 @@ Point 5 X=3 Y=20
 Point 6 X=3 Y=20
 
 This has been tested in Rainbow Six Siege and works pretty well.
+You can see a picture of this curve in the TrackIR Curves folder included. It shows
+what your curve should look like and reflects the above point settings.
+
 NOTE - You must set the lean function in game to hold and NOT toggle
 or this will not work.
 
