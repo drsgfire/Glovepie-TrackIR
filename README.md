@@ -35,8 +35,11 @@ Point 4 X=3 Y=20
 Point 5 X=3 Y=20
 Point 6 X=3 Y=20
 
-This has been tested in Rainbow Six Siege and works pretty well. One thing I have
-thought about changing though is to use the X axis instead of the roll axis.
+This has been tested in Rainbow Six Siege and works pretty well.
+NOTE - You must set the lean function in game to hold and NOT toggle
+or this will not work.
+
+One thing I have thought about changing though is to use the X axis instead of the roll axis.
 I noticed after a short amount of time, my neck was starting to ache a bit. The roll
 amount really is not that much but the fact that you have to put some conscious
 effort into moving back to a general centered position causes some strain. On the
