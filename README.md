@@ -1,6 +1,10 @@
 # Glovepie-TrackIR
 Some scripting to help you get started in assigning different functions to TrackIR axis.
 
+-------------------------------------------------------------------------------------
+
+12-23-15
+
 The primary reason for creating this comes from a need to lean. Fairly simple in
 simulation games like ARMA and flight simulators but doing this function in FPS is
 another story. Keybinds and buttons are your only option so we needed a way to
@@ -55,3 +59,14 @@ when you only intend it to come from one input.
 An example would be yawing your head to look left and right. Even though you only
 want the roll axis to be your input, just the action of moving your head left and right
 cause some form of roll input. Shifting on the X axis should get rid of this problem.
+
+
+-------------------------------------------------------------------------------------
+
+12-25-15
+
+After more tinkering with the TrackIR script I have uploaded a corrected X axis script.
+Turns out TrackIR measures Pitch, Roll and Yaw in degrees and X, Y and Z in cm which I
+guess is centimeters? I have uploaded a tutorial on youtube and it can be found here:
+
+https://www.youtube.com/watch?v=WwuEv4vhH7c
